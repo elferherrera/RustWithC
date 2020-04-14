@@ -1,0 +1,10 @@
+[package]
+name = "c_code"
+version = "0.1.0"
+authors = ["Jetson <jetson@algolook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cc = "1.0"
